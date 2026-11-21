@@ -575,6 +575,451 @@ $blogs = [
                 </ul>
             </div>
         '
+    ],
+    [
+        'id' => 13,
+        'slug' => 'delhi-to-vaishno-devi-road-trip-guide',
+        'from_city' => 'Delhi',
+        'to_city' => 'Vaishno Devi',
+        'route_title' => 'Delhi to Vaishno Devi by Innova Crysta: Katra Yatra Road Trip Guide',
+        'category' => 'Spiritual & Pilgrimage',
+        'category_slug' => 'spiritual',
+        'image' => 'images/blogs/delhi-to-vaishno-devi.jpg',
+        'distance' => '650 km (to Katra)',
+        'duration' => '11 - 12 hours',
+        'highway' => 'NH44 via Ambala, Ludhiana, Pathankot & Jammu',
+        'best_time' => 'March to June, September to November',
+        'read_time' => '5 min read',
+        'date' => 'November 2026',
+        'author' => 'Innova Travel Desk',
+        'short_desc' => 'Plan the Delhi to Katra drive for the Vaishno Devi yatra in a comfortable Innova Crysta: route, yatra registration, trek, helicopter and battery car options, and a relaxed 3-day plan.',
+        'highlights' => [
+            'Overnight drive to Katra in reclining captain seats',
+            'Mata Vaishno Devi Bhawan & Bhairon Baba darshan',
+            'Helicopter to Sanjichhat or the 13 km trek',
+            'Lunch stops at Ludhiana and Jammu'
+        ],
+        'content' => '
+            <p class="lead">The yatra to Shri Mata Vaishno Devi in the Trikuta hills is a journey every family plans at least once. Driving from Delhi to Katra in an Innova Crysta keeps elders comfortable on the long 650 km highway and gets the whole family to the base town rested for the climb.</p>
+
+            <h3>1. The Route to Katra</h3>
+            <p>The drive follows NH44 through Panipat, Ambala, Ludhiana and Pathankot to Jammu, then the last 50 km up to Katra. The highway is four to six lanes almost all the way, so many families leave Delhi at night and reach Katra by breakfast.</p>
+
+            <div class="blog-callout">
+                <h4><i class="fas fa-route"></i> Route Quick Facts</h4>
+                <ul>
+                    <li><strong>Distance:</strong> about 650 km to Katra</li>
+                    <li><strong>Drive time:</strong> 11 to 12 hours with stops</li>
+                    <li><strong>Base town:</strong> Katra; vehicles do not go beyond</li>
+                    <li><strong>Recommended vehicle:</strong> Innova Crysta 7 seater for families with elders</li>
+                </ul>
+            </div>
+
+            <h3>2. Yatra Registration</h3>
+            <p>Every pilgrim needs a yatra registration (RFID card), available online on the Shri Mata Vaishno Devi Shrine Board website or at the counters in Katra. Helicopter seats and Bhawan rooms also book out early, especially around Navratri.</p>
+
+            <h3>3. Reaching the Bhawan</h3>
+            <ul>
+                <li><strong>Walk:</strong> about 13 km on a paved, lit track with shelters and food stalls.</li>
+                <li><strong>Pony or palki:</strong> available at Banganga for elders.</li>
+                <li><strong>Helicopter:</strong> Katra to Sanjichhat, then about 2.5 km to the Bhawan.</li>
+                <li><strong>Battery car:</strong> from Adhkuwari on the new track, for elders and the differently abled.</li>
+            </ul>
+            <p class="photo-credit"><small>Cover photo: KDhruv406, CC BY 4.0, via <a href="https://commons.wikimedia.org/wiki/File:Shri_Mata_Vaishno_Devi_Bhawan,_Katra_Jammu_%26_Kashmir_INDIA.jpg" target="_blank" rel="noopener nofollow">Wikimedia Commons</a>.</small></p>
+        '
+    ],
+    [
+        'id' => 14,
+        'slug' => 'delhi-to-khatu-shyam-road-trip-guide',
+        'from_city' => 'Delhi',
+        'to_city' => 'Khatu Shyam Ji',
+        'route_title' => 'Delhi to Khatu Shyam Ji by Innova Crysta: Darshan & Salasar Road Trip',
+        'category' => 'Spiritual & Pilgrimage',
+        'category_slug' => 'spiritual',
+        'image' => 'images/blogs/delhi-to-khatu-shyam.jpg',
+        'distance' => '265 km',
+        'duration' => '5 - 6 hours',
+        'highway' => 'NH48 via Rewari & Narnaul',
+        'best_time' => 'October to March (avoid Ekadashi crowds)',
+        'read_time' => '5 min read',
+        'date' => 'November 2026',
+        'author' => 'Innova Travel Desk',
+        'short_desc' => 'A weekend road trip from Delhi to Khatu Shyam Ji in Sikar, Rajasthan, with Salasar Balaji on the same trip. Route, darshan tips, mela dates and a 2-day plan.',
+        'highlights' => [
+            'Shyam Baba darshan & Shyam Kund',
+            'Salasar Balaji in the same weekend',
+            'Easy 5-hour drive via Rewari',
+            'Jeen Mata temple in the Aravallis'
+        ],
+        'content' => '
+            <p class="lead">Khatu Shyam Ji in Sikar district draws lakhs of devotees from Delhi NCR every month. In an Innova Crysta the 265 km drive takes about five hours, so a family can leave on Saturday night, reach for the morning darshan and be home by Sunday evening.</p>
+
+            <h3>1. The Route</h3>
+            <p>Take NH48 to Gurugram and Rewari, then the road via Narnaul and Neem Ka Thana to Ringas and Khatu. The roads are good, with fuel and food along the way.</p>
+
+            <div class="blog-callout">
+                <h4><i class="fas fa-route"></i> Route Quick Facts</h4>
+                <ul>
+                    <li><strong>Distance:</strong> about 265 km</li>
+                    <li><strong>Drive time:</strong> 5 to 6 hours</li>
+                    <li><strong>Busiest days:</strong> Ekadashi and the Phalgun Lakkhi Mela</li>
+                    <li><strong>Add-on:</strong> Salasar Balaji, about 100 km away</li>
+                </ul>
+            </div>
+
+            <h3>2. Places to Visit</h3>
+            <ul>
+                <li><strong>Khatu Shyam Ji Temple:</strong> darshan of Shyam Baba, the Sheesh ke Daani.</li>
+                <li><strong>Shyam Kund:</strong> the holy pond where the sheesh was found.</li>
+                <li><strong>Salasar Balaji:</strong> the famous Hanuman temple in Churu district.</li>
+                <li><strong>Jeen Mata Temple:</strong> an ancient Devi temple in the hills, about 30 km from Khatu.</li>
+            </ul>
+            <p class="photo-credit"><small>Cover photo: Ansh patanker, CC0, via <a href="https://commons.wikimedia.org/wiki/File:Khatu_shyam_temple.jpg" target="_blank" rel="noopener nofollow">Wikimedia Commons</a>.</small></p>
+        '
+    ],
+    [
+        'id' => 15,
+        'slug' => 'delhi-to-vrindavan-road-trip-guide',
+        'from_city' => 'Delhi',
+        'to_city' => 'Vrindavan',
+        'route_title' => 'Delhi to Vrindavan & Mathura by Innova Crysta: One-Day Braj Yatra',
+        'category' => 'Spiritual & Pilgrimage',
+        'category_slug' => 'spiritual',
+        'image' => 'images/blogs/delhi-to-vrindavan.jpg',
+        'distance' => '165 km',
+        'duration' => '3 - 3.5 hours',
+        'highway' => 'Yamuna Expressway',
+        'best_time' => 'October to March; Holi & Janmashtami for festivals',
+        'read_time' => '5 min read',
+        'date' => 'November 2026',
+        'author' => 'Innova Travel Desk',
+        'short_desc' => 'A one-day Braj yatra from Delhi on the Yamuna Expressway: Banke Bihari, Prem Mandir, ISKCON and Krishna Janmabhoomi, with Govardhan and Barsana as a second-day add-on.',
+        'highlights' => [
+            'Banke Bihari & Radha Vallabh temples',
+            'Prem Mandir light show after sunset',
+            'Krishna Janmabhoomi in Mathura',
+            'Govardhan parikrama & Barsana add-on'
+        ],
+        'content' => '
+            <p class="lead">Vrindavan and Mathura, the land of Shri Krishna, are the easiest pilgrimage from Delhi. The Yamuna Expressway brings you there in about three hours, so a full day covers the main temples of both towns and you are home the same night.</p>
+
+            <h3>1. The Route</h3>
+            <p>Join the Yamuna Expressway at Greater Noida and exit at the Mathura/Vrindavan interchange. Inside Vrindavan the lanes are narrow; our chauffeurs know where to park close to the temples.</p>
+
+            <div class="blog-callout">
+                <h4><i class="fas fa-route"></i> Route Quick Facts</h4>
+                <ul>
+                    <li><strong>Distance:</strong> about 165 km</li>
+                    <li><strong>Drive time:</strong> 3 to 3.5 hours</li>
+                    <li><strong>Best start:</strong> by 6 AM to reach before the crowds</li>
+                    <li><strong>Second day:</strong> Govardhan (22 km) and Barsana (45 km)</li>
+                </ul>
+            </div>
+
+            <h3>2. Temples to Visit</h3>
+            <ul>
+                <li><strong>Shri Banke Bihari Temple:</strong> the heart of Vrindavan.</li>
+                <li><strong>ISKCON Vrindavan:</strong> the Krishna Balaram Mandir.</li>
+                <li><strong>Prem Mandir:</strong> white marble temple, best after sunset when it is lit up.</li>
+                <li><strong>Shri Krishna Janmabhoomi:</strong> Krishna\'s birthplace in Mathura.</li>
+                <li><strong>Nidhivan and Seva Kunj:</strong> the sacred groves of Vrindavan.</li>
+            </ul>
+            <p class="photo-credit"><small>Cover photo: Apurba Biswas, CC BY-SA 4.0, via <a href="https://commons.wikimedia.org/wiki/File:Vrindavan_Prem_Mandir_4.jpg" target="_blank" rel="noopener nofollow">Wikimedia Commons</a>.</small></p>
+        '
+    ],
+    [
+        'id' => 16,
+        'slug' => 'delhi-to-nainital-road-trip-guide',
+        'from_city' => 'Delhi',
+        'to_city' => 'Nainital',
+        'route_title' => 'Delhi to Nainital by Innova Crysta: Lakes, Kainchi Dham & Hill Weekend',
+        'category' => 'Hill Stations & Adventure',
+        'category_slug' => 'mountains',
+        'image' => 'images/blogs/delhi-to-nainital.jpg',
+        'distance' => '310 km',
+        'duration' => '7 hours',
+        'highway' => 'NH9 via Moradabad & Haldwani',
+        'best_time' => 'March to June, October to December',
+        'read_time' => '5 min read',
+        'date' => 'November 2026',
+        'author' => 'Innova Travel Desk',
+        'short_desc' => 'The complete Delhi to Nainital road trip: route via Moradabad and Kathgodam, Naini Lake, Bhimtal, Kainchi Dham and Mukteshwar in an easy 3-day plan.',
+        'highlights' => [
+            'Boating on Naini Lake & Mall Road walk',
+            'Kainchi Dham, Neem Karoli Baba\'s ashram',
+            'Bhimtal, Sattal & Naukuchiatal',
+            'Snow View Point by ropeway'
+        ],
+        'content' => '
+            <p class="lead">Nainital and the lakes of Kumaon make the perfect long weekend from Delhi. An Innova Crysta handles the final hill climb from Kathgodam with ease and gives every passenger a comfortable seat with a view.</p>
+
+            <h3>1. The Route</h3>
+            <p>Drive via Hapur, Moradabad and Rampur to Haldwani and Kathgodam, then climb 35 km of hill road to Nainital. Leaving Delhi early avoids the traffic around Ghaziabad and Hapur.</p>
+
+            <div class="blog-callout">
+                <h4><i class="fas fa-mountain"></i> Route Quick Facts</h4>
+                <ul>
+                    <li><strong>Distance:</strong> about 310 km</li>
+                    <li><strong>Drive time:</strong> around 7 hours</li>
+                    <li><strong>Hill section:</strong> Kathgodam to Nainital, 35 km</li>
+                    <li><strong>Nearby:</strong> Kainchi Dham 17 km, Bhimtal 22 km</li>
+                </ul>
+            </div>
+
+            <h3>2. Places to See</h3>
+            <ul>
+                <li><strong>Naini Lake:</strong> boating and the Naina Devi temple on the lake shore.</li>
+                <li><strong>Kainchi Dham:</strong> the ashram of Neem Karoli Baba.</li>
+                <li><strong>Bhimtal, Sattal and Naukuchiatal:</strong> quieter lakes for a day out.</li>
+                <li><strong>Snow View Point and Tiffin Top:</strong> Himalayan views on clear days.</li>
+            </ul>
+            <p class="photo-credit"><small>Cover photo: Praveen Singh Bisht, CC BY 2.0, via <a href="https://commons.wikimedia.org/wiki/File:Naini_Lake,_Nainital,_Uttarakhand,_India.jpg" target="_blank" rel="noopener nofollow">Wikimedia Commons</a>.</small></p>
+        '
+    ],
+    [
+        'id' => 17,
+        'slug' => 'delhi-to-mussoorie-road-trip-guide',
+        'from_city' => 'Delhi',
+        'to_city' => 'Mussoorie',
+        'route_title' => 'Delhi to Mussoorie by Innova Crysta: Queen of Hills Weekend Guide',
+        'category' => 'Hill Stations & Adventure',
+        'category_slug' => 'mountains',
+        'image' => 'images/blogs/delhi-to-mussoorie.jpg',
+        'distance' => '290 km',
+        'duration' => '6 - 7 hours',
+        'highway' => 'Delhi-Dehradun Expressway & NH334',
+        'best_time' => 'March to June, September to November; December for snow',
+        'read_time' => '5 min read',
+        'date' => 'November 2026',
+        'author' => 'Innova Travel Desk',
+        'short_desc' => 'Weekend road trip from Delhi to Mussoorie via the new Delhi-Dehradun Expressway: Mall Road, Kempty Falls, Landour, Gun Hill and a 3-day plan for families.',
+        'highlights' => [
+            'Fast drive on the Delhi-Dehradun Expressway',
+            'Mall Road, Gun Hill ropeway & Camel\'s Back Road',
+            'Landour\'s cafes and old bakeries',
+            'Kempty Falls & Dhanaulti'
+        ],
+        'content' => '
+            <p class="lead">Mussoorie, the Queen of Hills, sits above Dehradun with views of the Doon valley and the Himalaya. The new Delhi-Dehradun Expressway has cut the drive time, making it one of the best weekend trips from Delhi in an Innova Crysta.</p>
+
+            <h3>1. The Route</h3>
+            <p>Take the Delhi-Dehradun Expressway via Baghpat and Saharanpur to Dehradun, then the 35 km hill road up to Mussoorie. The climb has many hairpin bends, where an experienced hill chauffeur makes all the difference.</p>
+
+            <div class="blog-callout">
+                <h4><i class="fas fa-mountain"></i> Route Quick Facts</h4>
+                <ul>
+                    <li><strong>Distance:</strong> about 290 km</li>
+                    <li><strong>Drive time:</strong> 6 to 7 hours</li>
+                    <li><strong>Hill section:</strong> Dehradun to Mussoorie, 35 km</li>
+                    <li><strong>Snow:</strong> Possible from late December to February</li>
+                </ul>
+            </div>
+
+            <h3>2. Places to See</h3>
+            <ul>
+                <li><strong>Mall Road and Camel\'s Back Road:</strong> evening walks and shopping.</li>
+                <li><strong>Gun Hill:</strong> ropeway ride with views of the valley.</li>
+                <li><strong>Landour:</strong> quiet lanes, Char Dukan and old churches.</li>
+                <li><strong>Kempty Falls and Dhanaulti:</strong> a waterfall and deodar forests.</li>
+            </ul>
+            <p class="photo-credit"><small>Cover photo: Harshanh, CC BY-SA 3.0, via <a href="https://commons.wikimedia.org/wiki/File:Mussoorie_view_from_Mall_road_09.JPG" target="_blank" rel="noopener nofollow">Wikimedia Commons</a>.</small></p>
+        '
+    ],
+    [
+        'id' => 18,
+        'slug' => 'delhi-to-ayodhya-road-trip-guide',
+        'from_city' => 'Delhi',
+        'to_city' => 'Ayodhya',
+        'route_title' => 'Delhi to Ayodhya by Innova Crysta: Ram Mandir Darshan Road Trip',
+        'category' => 'Spiritual & Pilgrimage',
+        'category_slug' => 'spiritual',
+        'image' => 'images/blogs/delhi-to-ayodhya.jpg',
+        'distance' => '680 km',
+        'duration' => '10 - 11 hours',
+        'highway' => 'Yamuna, Agra-Lucknow & Purvanchal Expressways',
+        'best_time' => 'October to March',
+        'read_time' => '5 min read',
+        'date' => 'November 2026',
+        'author' => 'Innova Travel Desk',
+        'short_desc' => 'Drive from Delhi to Ayodhya on the expressways for Shri Ram Janmabhoomi Mandir darshan, Hanuman Garhi, Saryu aarti and a 3-day plan with a Lucknow stop.',
+        'highlights' => [
+            'Shri Ram Janmabhoomi Mandir darshan',
+            'Hanuman Garhi & Kanak Bhawan',
+            'Saryu aarti at Ram ki Paidi',
+            'Expressway drive with a Lucknow stop'
+        ],
+        'content' => '
+            <p class="lead">Since the consecration of the Shri Ram Janmabhoomi Mandir, Ayodhya has become one of the most visited pilgrimages in India. The Yamuna, Agra-Lucknow and Purvanchal expressways make the long drive from Delhi smooth and fast in an Innova Crysta.</p>
+
+            <h3>1. The Route</h3>
+            <p>Drive the Yamuna Expressway to Agra, the Agra-Lucknow Expressway to Lucknow, and then on to Ayodhya. Most families break the journey for lunch in Lucknow.</p>
+
+            <div class="blog-callout">
+                <h4><i class="fas fa-route"></i> Route Quick Facts</h4>
+                <ul>
+                    <li><strong>Distance:</strong> about 680 km</li>
+                    <li><strong>Drive time:</strong> 10 to 11 hours</li>
+                    <li><strong>Good halt:</strong> Lucknow, about 135 km before Ayodhya</li>
+                    <li><strong>Darshan:</strong> Check the temple\'s current timings and pass system before you go</li>
+                </ul>
+            </div>
+
+            <h3>2. Places to Visit</h3>
+            <ul>
+                <li><strong>Shri Ram Janmabhoomi Mandir:</strong> the new temple of Ram Lalla.</li>
+                <li><strong>Hanuman Garhi:</strong> traditionally visited before Ram darshan.</li>
+                <li><strong>Kanak Bhawan:</strong> the temple of Sita and Ram.</li>
+                <li><strong>Ram ki Paidi:</strong> ghats on the Saryu with the evening aarti.</li>
+            </ul>
+            <p class="photo-credit"><small>Cover photo: Narendra Modi, CC BY 3.0, via <a href="https://commons.wikimedia.org/wiki/File:Ram_Mandir,_Ayodhya.png" target="_blank" rel="noopener nofollow">Wikimedia Commons</a>.</small></p>
+        '
+    ],
+    [
+        'id' => 19,
+        'slug' => 'delhi-to-dharamshala-road-trip-guide',
+        'from_city' => 'Delhi',
+        'to_city' => 'Dharamshala',
+        'route_title' => 'Delhi to Dharamshala & McLeod Ganj by Innova Crysta: Himalayan Road Trip',
+        'category' => 'Hill Stations & Adventure',
+        'category_slug' => 'mountains',
+        'image' => 'images/blogs/delhi-to-dharamshala.jpg',
+        'distance' => '480 km',
+        'duration' => '9 - 10 hours',
+        'highway' => 'NH44 & NH503 via Una',
+        'best_time' => 'March to June, September to November',
+        'read_time' => '5 min read',
+        'date' => 'November 2026',
+        'author' => 'Innova Travel Desk',
+        'short_desc' => 'Road trip from Delhi to Dharamshala and McLeod Ganj: route via Chandigarh and Una, Dalai Lama Temple, Bhagsu, Triund, the HPCA stadium and a 4-day plan.',
+        'highlights' => [
+            'Dalai Lama Temple & Tibetan culture in McLeod Ganj',
+            'HPCA cricket stadium with mountain views',
+            'Bhagsu waterfall & Triund trek',
+            'Kangra Fort and tea gardens'
+        ],
+        'content' => '
+            <p class="lead">Dharamshala and McLeod Ganj sit below the snowy Dhauladhar range, home to the Dalai Lama and a vibrant Tibetan community. It is a long but beautiful drive from Delhi, and the Innova Crysta\'s comfort makes the 480 km easy for the whole family.</p>
+
+            <h3>1. The Route</h3>
+            <p>Drive NH44 to Ambala and Chandigarh, then Ropar, Una and Kangra to Dharamshala. McLeod Ganj is another 9 km uphill. Many travellers leave at night to reach by morning.</p>
+
+            <div class="blog-callout">
+                <h4><i class="fas fa-mountain"></i> Route Quick Facts</h4>
+                <ul>
+                    <li><strong>Distance:</strong> about 480 km</li>
+                    <li><strong>Drive time:</strong> 9 to 10 hours</li>
+                    <li><strong>Upper town:</strong> McLeod Ganj, 9 km above Dharamshala</li>
+                    <li><strong>Trek:</strong> Triund, about 9 km from McLeod Ganj</li>
+                </ul>
+            </div>
+
+            <h3>2. Places to See</h3>
+            <ul>
+                <li><strong>Tsuglagkhang (Dalai Lama Temple):</strong> the main Tibetan temple complex.</li>
+                <li><strong>Bhagsunag Temple and Waterfall:</strong> an easy walk from McLeod Ganj.</li>
+                <li><strong>HPCA Stadium:</strong> one of the most scenic cricket grounds in the world.</li>
+                <li><strong>Kangra Fort and Norbulingka Institute:</strong> history and Tibetan arts.</li>
+            </ul>
+            <p class="photo-credit"><small>Cover photo: Adam Jones, CC BY-SA 2.0, via <a href="https://commons.wikimedia.org/wiki/File:View_over_McLeod_Ganj_-_Himachal_Pradesh_-_India_(26538939370).jpg" target="_blank" rel="noopener nofollow">Wikimedia Commons</a>.</small></p>
+        '
+    ],
+    [
+        'id' => 20,
+        'slug' => 'delhi-to-lansdowne-road-trip-guide',
+        'from_city' => 'Delhi',
+        'to_city' => 'Lansdowne',
+        'route_title' => 'Delhi to Lansdowne by Innova Crysta: A Quiet Hill Weekend Without the Crowds',
+        'category' => 'Hill Stations & Adventure',
+        'category_slug' => 'mountains',
+        'image' => 'images/blogs/delhi-to-lansdowne.jpg',
+        'distance' => '260 km',
+        'duration' => '6 hours',
+        'highway' => 'Delhi-Meerut Expressway via Kotdwar',
+        'best_time' => 'March to June, October to February',
+        'read_time' => '5 min read',
+        'date' => 'November 2026',
+        'author' => 'Innova Travel Desk',
+        'short_desc' => 'Escape the crowded hill towns with a weekend in Lansdowne: route via Meerut and Kotdwar, Bhulla Tal, Tip-n-Top, Tarkeshwar Mahadev and a relaxed 2-day plan.',
+        'highlights' => [
+            'Uncrowded cantonment hill town',
+            'Bhulla Tal boating & Tip-n-Top views',
+            'Tarkeshwar Mahadev in deodar forest',
+            'Only 6 hours from Delhi'
+        ],
+        'content' => '
+            <p class="lead">Lansdowne is a small cantonment town in the Garhwal hills, home of the Garhwal Rifles. With clean roads, pine forests and very little traffic, it is the ideal quiet weekend from Delhi for families, couples and senior citizens.</p>
+
+            <h3>1. The Route</h3>
+            <p>Take the Delhi-Meerut Expressway, then Bijnor and Najibabad to Kotdwar, and the 40 km hill road to Lansdowne. The hill road is winding but well maintained.</p>
+
+            <div class="blog-callout">
+                <h4><i class="fas fa-mountain"></i> Route Quick Facts</h4>
+                <ul>
+                    <li><strong>Distance:</strong> about 260 km</li>
+                    <li><strong>Drive time:</strong> around 6 hours</li>
+                    <li><strong>Hill section:</strong> Kotdwar to Lansdowne, 40 km</li>
+                    <li><strong>Best for:</strong> Families, couples and senior citizens</li>
+                </ul>
+            </div>
+
+            <h3>2. Places to See</h3>
+            <ul>
+                <li><strong>Bhulla Tal:</strong> small army-maintained lake with boating.</li>
+                <li><strong>Tip-n-Top:</strong> viewpoint over the valleys and Himalayan peaks.</li>
+                <li><strong>St. Mary\'s Church and the War Memorial:</strong> British-era heritage.</li>
+                <li><strong>Tarkeshwar Mahadev:</strong> Shiva temple in deodar forest, 35 km away.</li>
+            </ul>
+            <p class="photo-credit"><small>Cover photo: Navdeep Gusain, CC BY-SA 4.0, via <a href="https://commons.wikimedia.org/wiki/File:Lansdowne_in_monsoon.jpg" target="_blank" rel="noopener nofollow">Wikimedia Commons</a>.</small></p>
+        '
+    ],
+    [
+        'id' => 21,
+        'slug' => 'delhi-to-kedarnath-road-trip-guide',
+        'from_city' => 'Delhi',
+        'to_city' => 'Kedarnath',
+        'route_title' => 'Delhi to Kedarnath by Innova Crysta: Yatra Route, Trek & Helicopter Guide',
+        'category' => 'Spiritual & Pilgrimage',
+        'category_slug' => 'spiritual',
+        'image' => 'images/blogs/delhi-to-kedarnath.jpg',
+        'distance' => '450 km (to Sonprayag)',
+        'duration' => '11 - 12 hours',
+        'highway' => 'Via Haridwar, Rishikesh & Rudraprayag',
+        'best_time' => 'May to June, September to October',
+        'read_time' => '5 min read',
+        'date' => 'November 2026',
+        'author' => 'Innova Travel Desk',
+        'short_desc' => 'Plan the Kedarnath yatra from Delhi: road route to Sonprayag and Gaurikund, registration, the 16 km trek, helicopter from Phata or Guptkashi, and a 5-day plan.',
+        'highlights' => [
+            'Baba Kedarnath darshan in the Himalaya',
+            'Scenic drive along the Alaknanda & Mandakini',
+            'Helicopter from Phata, Sersi or Guptkashi',
+            'Devprayag and Rudraprayag sangams'
+        ],
+        'content' => '
+            <p class="lead">Kedarnath, one of the twelve Jyotirlingas and a part of the Char Dham, sits at about 3,580 metres in the Garhwal Himalaya. The road ends at Sonprayag, and an Innova Crysta with an experienced mountain chauffeur is one of the safest and most comfortable ways to reach it from Delhi.</p>
+
+            <h3>1. The Route</h3>
+            <p>Drive from Delhi to Haridwar and Rishikesh, then along the Alaknanda through Devprayag and Srinagar to Rudraprayag, and up the Mandakini valley via Guptkashi to Sonprayag. Shared jeeps take pilgrims the last 5 km to Gaurikund, where the trek starts.</p>
+
+            <div class="blog-callout">
+                <h4><i class="fas fa-mountain"></i> Route Quick Facts</h4>
+                <ul>
+                    <li><strong>Distance:</strong> about 450 km to Sonprayag</li>
+                    <li><strong>Drive time:</strong> best split over 2 days</li>
+                    <li><strong>Trek:</strong> about 16 km from Gaurikund</li>
+                    <li><strong>Registration:</strong> mandatory for the Char Dham yatra</li>
+                </ul>
+            </div>
+
+            <h3>2. Yatra Essentials</h3>
+            <ul>
+                <li><strong>Registration:</strong> register online on the Uttarakhand government yatra portal before you leave.</li>
+                <li><strong>Helicopter:</strong> book only on the official IRCTC heli-yatra website.</li>
+                <li><strong>Ponies and palkis:</strong> available at Gaurikund for those who cannot walk.</li>
+                <li><strong>Season:</strong> the temple usually opens around Akshaya Tritiya and closes after Bhai Dooj.</li>
+            </ul>
+            <p class="photo-credit"><small>Cover photo: Shivam Kumar 766, CC BY-SA 4.0, via <a href="https://commons.wikimedia.org/wiki/File:Kedarnath_Temple_in_Rainy_season.jpg" target="_blank" rel="noopener nofollow">Wikimedia Commons</a>.</small></p>
+        '
     ]
 ];
 

@@ -327,4 +327,234 @@ $blog_extras = [
             ['q' => 'What are the top places in Chandigarh?', 'a' => 'Rock Garden, Sukhna Lake, Rose Garden, the Capitol Complex and Sector 17.'],
         ],
     ],
+
+    'delhi-to-vaishno-devi-road-trip-guide' => [
+        'route_page' => 'delhi-to-vaishno-devi.php',
+        'itinerary' => [
+            ['title' => 'Delhi to Katra', 'time' => 'Day 1', 'text' => 'Leave Delhi in the evening or early morning on NH44 with meal stops at Murthal or Ludhiana. Check in at Katra and collect your RFID yatra card.'],
+            ['title' => 'Darshan day', 'time' => 'Day 2', 'text' => 'Start the climb early from Banganga, take Mata\'s darshan at the Bhawan and continue to Bhairon Baba temple to complete the yatra. Return to Katra by evening.'],
+            ['title' => 'Katra to Delhi', 'time' => 'Day 3', 'text' => 'Rest in the morning, shop for dry fruits and prasad in Katra market, then drive back to Delhi.'],
+        ],
+        'stops' => [
+            ['name' => 'Murthal dhabas', 'note' => 'Famous paratha stop just outside Delhi.'],
+            ['name' => 'Golden Temple, Amritsar (detour)', 'note' => 'Add a day for Harmandir Sahib and the Wagah border ceremony.'],
+            ['name' => 'Jammu', 'note' => 'Raghunath Temple and Bahu Fort on the way back.'],
+        ],
+        'tips' => [
+            'Book helicopter tickets on the Shrine Board website as soon as your dates are fixed.',
+            'Carry a photo ID for every member of the group for registration.',
+            'Wear good walking shoes; the track is long and steep in parts.',
+            'Winter nights at the Bhawan are cold; pack warm layers from November to February.',
+        ],
+        'faqs' => [
+            ['q' => 'How far is Vaishno Devi from Delhi by road?', 'a' => 'Katra is about 650 km from Delhi, around 11 to 12 hours by car with stops.'],
+            ['q' => 'How many days are needed?', 'a' => 'Three days is comfortable: one to drive up, one for the yatra and one to return.'],
+            ['q' => 'Can the car go up to the Bhawan?', 'a' => 'No. Vehicles stop at Katra; from there you walk or use ponies, palkis, the helicopter or the battery car.'],
+        ],
+    ],
+
+    'delhi-to-khatu-shyam-road-trip-guide' => [
+        'route_page' => 'delhi-to-khatu-shyam.php',
+        'itinerary' => [
+            ['title' => 'Night departure', 'time' => 'Day 1, 10 PM', 'text' => 'Pickup from your home in Delhi NCR and an easy night drive via Rewari.'],
+            ['title' => 'Morning darshan', 'time' => 'Day 2, 5 AM', 'text' => 'Mangla aarti and darshan at Khatu Shyam Ji, followed by a dip at Shyam Kund and breakfast.'],
+            ['title' => 'Salasar Balaji', 'time' => 'Day 2, 11 AM', 'text' => 'Drive about 2 hours to Salasar Balaji for darshan and lunch.'],
+            ['title' => 'Back to Delhi', 'time' => 'Day 2, 3 PM', 'text' => 'Start the drive back and reach Delhi by late evening.'],
+        ],
+        'stops' => [
+            ['name' => 'Rewari', 'note' => 'Good breakfast and tea stops on the way.'],
+            ['name' => 'Ringas', 'note' => 'The last town before Khatu, with sweets and prasad shops.'],
+            ['name' => 'Jeen Mata', 'note' => 'Detour for an ancient temple in the Aravalli hills.'],
+        ],
+        'tips' => [
+            'Avoid Ekadashi and the Phalgun mela if you travel with elders; queues can take several hours.',
+            'Keep a small bag only; mobile phones and footwear may need to be left outside.',
+            'Book early for long weekends and festival dates.',
+            'Carry some cash for prasad and parking near the temple.',
+        ],
+        'faqs' => [
+            ['q' => 'How far is Khatu Shyam from Delhi?', 'a' => 'About 265 km, a 5 to 6 hour drive.'],
+            ['q' => 'Can we cover Salasar Balaji in the same trip?', 'a' => 'Yes. Salasar is about 100 km from Khatu and fits into a 2-day trip.'],
+            ['q' => 'When is Khatu Shyam most crowded?', 'a' => 'On Ekadashi days and during the Phalgun Lakkhi Mela in February or March.'],
+        ],
+    ],
+
+    'delhi-to-vrindavan-road-trip-guide' => [
+        'route_page' => 'delhi-to-vrindavan.php',
+        'itinerary' => [
+            ['title' => 'Pickup in Delhi NCR', 'time' => '6:00 AM', 'text' => 'Early start to reach Vrindavan before the morning rush.'],
+            ['title' => 'Banke Bihari darshan', 'time' => '9:00 AM', 'text' => 'Darshan at Banke Bihari and Radha Vallabh, then a walk to Nidhivan.'],
+            ['title' => 'ISKCON & lunch', 'time' => '12:00 PM', 'text' => 'Visit ISKCON and have a sattvik lunch nearby.'],
+            ['title' => 'Krishna Janmabhoomi', 'time' => '3:00 PM', 'text' => 'Drive 12 km to Mathura for the Janmabhoomi temple and Vishram Ghat.'],
+            ['title' => 'Prem Mandir lights', 'time' => '6:30 PM', 'text' => 'See Prem Mandir lit up, then drive back to Delhi.'],
+        ],
+        'stops' => [
+            ['name' => 'Yamuna Expressway food plazas', 'note' => 'Clean washrooms and food courts on the way.'],
+            ['name' => 'Govardhan', 'note' => 'Giriraj Ji and Mansi Ganga, 22 km from Vrindavan.'],
+            ['name' => 'Barsana', 'note' => 'Shri Radha Rani temple on the hill.'],
+        ],
+        'tips' => [
+            'Weekday mornings are calmest at Banke Bihari.',
+            'Keep phones and bags secure in the temple lanes; monkeys snatch glasses and phones.',
+            'Wear comfortable footwear that is easy to remove.',
+            'For Holi and Janmashtami, book a week or more in advance.',
+        ],
+        'faqs' => [
+            ['q' => 'Can Vrindavan and Mathura be done in one day?', 'a' => 'Yes. With a 6 AM start the main temples of both towns fit into a single day.'],
+            ['q' => 'How far is Vrindavan from Delhi?', 'a' => 'About 165 km, around 3 hours on the Yamuna Expressway.'],
+            ['q' => 'Can we add Govardhan and Barsana?', 'a' => 'Yes, as a second day. Both are within 45 km of Vrindavan.'],
+        ],
+    ],
+
+    'delhi-to-nainital-road-trip-guide' => [
+        'route_page' => 'delhi-to-nainital.php',
+        'itinerary' => [
+            ['title' => 'Delhi to Nainital', 'time' => 'Day 1', 'text' => 'Morning departure, lunch near Moradabad, evening boating on Naini Lake and a walk on Mall Road.'],
+            ['title' => 'Kainchi Dham & the lakes', 'time' => 'Day 2', 'text' => 'Visit Kainchi Dham early, then Bhimtal, Sattal and Naukuchiatal.'],
+            ['title' => 'Views & return', 'time' => 'Day 3', 'text' => 'Snow View Point or Tiffin Top in the morning, then drive back to Delhi.'],
+        ],
+        'stops' => [
+            ['name' => 'Gajraula', 'note' => 'Popular highway food stop.'],
+            ['name' => 'Kathgodam', 'note' => 'Last stop on the plains before the hill climb.'],
+            ['name' => 'Mukteshwar', 'note' => 'Add a quiet extra day with orchards and Himalayan views.'],
+        ],
+        'tips' => [
+            'Book lake-facing hotels early for long weekends.',
+            'Mall Road parking fills up fast; your chauffeur will use the designated parking.',
+            'Evenings are cold even in spring; carry jackets.',
+            'Visit Kainchi Dham early; it gets crowded around 15 June, the foundation day.',
+        ],
+        'faqs' => [
+            ['q' => 'How far is Nainital from Delhi?', 'a' => 'About 310 km, around 7 hours by car.'],
+            ['q' => 'Can we visit Kainchi Dham from Nainital?', 'a' => 'Yes. It is about 17 km away and fits easily into the trip.'],
+            ['q' => 'Is it a good trip for elders?', 'a' => 'Yes. Roads are good and the Innova Crysta\'s captain seats make the hill climb comfortable.'],
+        ],
+    ],
+
+    'delhi-to-mussoorie-road-trip-guide' => [
+        'route_page' => 'delhi-to-mussoorie.php',
+        'itinerary' => [
+            ['title' => 'Delhi to Mussoorie', 'time' => 'Day 1', 'text' => 'Morning start on the expressway, lunch in Dehradun, evening on Mall Road.'],
+            ['title' => 'Mussoorie sightseeing', 'time' => 'Day 2', 'text' => 'Kempty Falls in the morning, Gun Hill ropeway and Landour in the afternoon.'],
+            ['title' => 'Dhanaulti & return', 'time' => 'Day 3', 'text' => 'Short trip to Dhanaulti\'s Eco Park, then drive back to Delhi.'],
+        ],
+        'stops' => [
+            ['name' => 'Robber\'s Cave, Dehradun', 'note' => 'A river cave stop on the way.'],
+            ['name' => 'Mindrolling Monastery', 'note' => 'Large Buddhist monastery in Dehradun.'],
+            ['name' => 'Rishikesh (detour)', 'note' => 'Combine with Ganga aarti for an extra day.'],
+        ],
+        'tips' => [
+            'Vehicle entry to Mall Road is restricted; your chauffeur will drop you at the nearest point.',
+            'Weekend traffic on the hill road can be heavy; start early.',
+            'Carry woollens for evenings in all seasons.',
+            'In snow season, check road status for Dhanaulti before going.',
+        ],
+        'faqs' => [
+            ['q' => 'How far is Mussoorie from Delhi?', 'a' => 'About 290 km, around 6 to 7 hours.'],
+            ['q' => 'Does it snow in Mussoorie?', 'a' => 'Light snowfall is possible from late December to February, more often in Dhanaulti.'],
+            ['q' => 'Can we combine Mussoorie with Rishikesh?', 'a' => 'Yes. Rishikesh is about 75 km from Mussoorie and makes a good extra day.'],
+        ],
+    ],
+
+    'delhi-to-ayodhya-road-trip-guide' => [
+        'route_page' => 'delhi-to-ayodhya.php',
+        'itinerary' => [
+            ['title' => 'Delhi to Ayodhya', 'time' => 'Day 1', 'text' => 'Early start on the expressways, lunch in Lucknow, reach Ayodhya by evening.'],
+            ['title' => 'Darshan day', 'time' => 'Day 2', 'text' => 'Hanuman Garhi, Ram Mandir darshan, Kanak Bhawan, and the Saryu aarti in the evening.'],
+            ['title' => 'Ayodhya to Delhi', 'time' => 'Day 3', 'text' => 'Morning dip at the Saryu ghats, then drive back to Delhi.'],
+        ],
+        'stops' => [
+            ['name' => 'Agra', 'note' => 'Break the journey with the Taj Mahal on the way.'],
+            ['name' => 'Lucknow', 'note' => 'Lunch and the Bara Imambara.'],
+            ['name' => 'Naimisharanya (detour)', 'note' => 'An ancient pilgrimage near Sitapur.'],
+        ],
+        'tips' => [
+            'Mobile phones, bags and electronics are not allowed inside the Ram Mandir; use the lockers or leave them in the car.',
+            'Hotels fill up on festivals like Ram Navami and Deepotsav; book early.',
+            'The expressways are fast but tiring; plan a rest stop every 2 to 3 hours.',
+            'Winter fog on the expressways can slow the drive in December and January.',
+        ],
+        'faqs' => [
+            ['q' => 'How far is Ayodhya from Delhi by road?', 'a' => 'About 680 km, around 10 to 11 hours via the expressways.'],
+            ['q' => 'How many days do we need?', 'a' => 'Three days: one to drive each way and one full day for darshan.'],
+            ['q' => 'Can we stop at Lucknow?', 'a' => 'Yes. Lucknow is on the way and makes a good lunch or overnight stop.'],
+        ],
+    ],
+
+    'delhi-to-dharamshala-road-trip-guide' => [
+        'route_page' => 'delhi-to-dharamshala.php',
+        'itinerary' => [
+            ['title' => 'Delhi to Dharamshala', 'time' => 'Day 1', 'text' => 'Long drive via Chandigarh and Una; evening rest.'],
+            ['title' => 'McLeod Ganj', 'time' => 'Day 2', 'text' => 'Dalai Lama Temple, Bhagsu waterfall, Dal Lake and Tibetan cafes.'],
+            ['title' => 'Triund or Kangra', 'time' => 'Day 3', 'text' => 'Trek to Triund, or visit Kangra Fort, Norbulingka and the tea gardens.'],
+            ['title' => 'Return to Delhi', 'time' => 'Day 4', 'text' => 'HPCA stadium in the morning, then drive back to Delhi.'],
+        ],
+        'stops' => [
+            ['name' => 'Anandpur Sahib', 'note' => 'Takht Sri Kesgarh Sahib on the way via Ropar.'],
+            ['name' => 'Chintpurni', 'note' => 'Famous Devi temple near Una.'],
+            ['name' => 'Jwalamukhi (detour)', 'note' => 'The eternal-flame temple, about 55 km from Dharamshala.'],
+        ],
+        'tips' => [
+            'McLeod Ganj roads are narrow and parking is limited; stay close to the main square.',
+            'Triund is a full-day trek; start early and carry water.',
+            'Check stadium access in advance on match days.',
+            'Pack layers; the weather changes quickly near the Dhauladhars.',
+        ],
+        'faqs' => [
+            ['q' => 'How far is Dharamshala from Delhi?', 'a' => 'About 480 km, around 9 to 10 hours.'],
+            ['q' => 'How many days are enough?', 'a' => 'Four days covers Dharamshala, McLeod Ganj and either Triund or Kangra comfortably.'],
+            ['q' => 'Can we add Chintpurni and Jwalamukhi?', 'a' => 'Yes. Both Devi temples are near the route and are easy to add.'],
+        ],
+    ],
+
+    'delhi-to-lansdowne-road-trip-guide' => [
+        'route_page' => 'delhi-to-lansdowne.php',
+        'itinerary' => [
+            ['title' => 'Delhi to Lansdowne', 'time' => 'Day 1', 'text' => 'Morning drive via Meerut and Kotdwar; afternoon at Bhulla Tal and sunset at Tip-n-Top.'],
+            ['title' => 'Tarkeshwar & return', 'time' => 'Day 2', 'text' => 'Early visit to Tarkeshwar Mahadev, Garhwal Rifles museum, then drive back to Delhi.'],
+        ],
+        'stops' => [
+            ['name' => 'Siddhbali Temple, Kotdwar', 'note' => 'Hanuman temple at the foot of the hills.'],
+            ['name' => 'Kanvashram', 'note' => 'Ashram of Rishi Kanva on the Malini river near Kotdwar.'],
+            ['name' => 'Bijnor', 'note' => 'Highway food stop.'],
+        ],
+        'tips' => [
+            'Lansdowne is a cantonment; photography is restricted in some areas.',
+            'Shops close early, so plan dinner at your hotel.',
+            'Carry cash; ATMs are limited.',
+            'Monsoon brings fog and slippery roads; drive in daylight.',
+        ],
+        'faqs' => [
+            ['q' => 'How far is Lansdowne from Delhi?', 'a' => 'About 260 km, around 6 hours by car.'],
+            ['q' => 'Is Lansdowne crowded?', 'a' => 'Much less than Mussoorie or Nainital, which is its main charm.'],
+            ['q' => 'Is two days enough?', 'a' => 'Yes. Lansdowne is small and a 2-day weekend covers it well.'],
+        ],
+    ],
+
+    'delhi-to-kedarnath-road-trip-guide' => [
+        'route_page' => 'delhi-to-kedarnath.php',
+        'itinerary' => [
+            ['title' => 'Delhi to Rishikesh', 'time' => 'Day 1', 'text' => 'Morning drive to Rishikesh; evening Ganga aarti at Triveni Ghat.'],
+            ['title' => 'Rishikesh to Guptkashi', 'time' => 'Day 2', 'text' => 'Scenic drive via Devprayag and Rudraprayag to Guptkashi or Sitapur.'],
+            ['title' => 'Trek to Kedarnath', 'time' => 'Day 3', 'text' => 'Early start from Sonprayag and Gaurikund; evening aarti at Kedarnath and night stay near the temple.'],
+            ['title' => 'Darshan & descent', 'time' => 'Day 4', 'text' => 'Morning darshan and Bhairavnath temple, then trek down and drive to Guptkashi.'],
+            ['title' => 'Return to Delhi', 'time' => 'Day 5', 'text' => 'Long drive back to Delhi via Rishikesh.'],
+        ],
+        'stops' => [
+            ['name' => 'Devprayag', 'note' => 'Sangam of the Alaknanda and Bhagirathi, where the Ganga begins.'],
+            ['name' => 'Dhari Devi', 'note' => 'Temple on the Alaknanda near Srinagar.'],
+            ['name' => 'Ukhimath', 'note' => 'Winter seat of Baba Kedarnath, near Guptkashi.'],
+        ],
+        'tips' => [
+            'Registration is checked on the way; carry the printout or the QR code on your phone.',
+            'Book helicopters only on the official IRCTC site; beware of fake booking websites.',
+            'Avoid the monsoon (July to August) because of landslides.',
+            'Carry rain gear and warm clothes in every season; nights at Kedarnath are cold.',
+        ],
+        'faqs' => [
+            ['q' => 'How far is Kedarnath from Delhi?', 'a' => 'About 450 km to Sonprayag by road, plus a 16 km trek from Gaurikund.'],
+            ['q' => 'How many days do we need?', 'a' => 'Five days is a comfortable plan from Delhi and back.'],
+            ['q' => 'Can the car go up to Kedarnath?', 'a' => 'No. Private vehicles stop at Sonprayag; from there you take a shared jeep to Gaurikund and then trek, ride a pony or take a helicopter.'],
+        ],
+    ],
 ];
